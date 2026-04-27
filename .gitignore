@@ -14,7 +14,7 @@ celery_tasks.py
 celery_app.py
 events_provider_client_sync.py
 
-# Virtual environments
+# Virtual environments.
 .venv
 .env
 .DS_Store
