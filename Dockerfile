@@ -20,3 +20,5 @@ RUN addgroup --system --gid 1000 appuser && \
 
 # Переключаемся на пользователя
 USER 1000
+
+CMD ["python", "server.py"]
