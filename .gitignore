@@ -1,0 +1,21 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+kube/
+.DS_Store/
+*.egg-info
+docker-compose.yml
+.python-version
+test.py
+celery_tasks.py
+celery_app.py
+events_provider_client_sync.py
+
+# Virtual environments
+.venv
+.env
+.DS_Store
+k3scluster.yaml
