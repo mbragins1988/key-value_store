@@ -1,6 +1,6 @@
 # KVStore — gRPC key-value store
 
-In-memory key-value хранилище с поддержбой TTL и LRU eviction. Реализовано на Python с gRPC.
+In-memory key-value хранилище с поддержбой TTL и LRU eviction. Реализовано на Python с gRPC
 
 ## Зачем
 
